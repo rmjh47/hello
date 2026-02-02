@@ -1,2 +1,2 @@
-# hello
-ML assignment1
+# lab1 ML
+introducing myself 
